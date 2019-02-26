@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="63px" height="18px" viewBox="0 0 63 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>OFFER</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="1.82927585%" y1="50%" x2="97.7985874%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#F8BA31" offset="0%"></stop>
+            <stop stop-color="#FFB43D" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-2" points="0 0 55 0 63 8.5929733 55 18 0 18"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="OFFER">
+            <g id="Rectangle">
+                <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                <path stroke="#E5A20C" stroke-width="1" d="M0.5,0.5 L0.5,17.5 L54.7688552,17.5 L62.3308538,8.60800967 L54.7823516,0.5 L0.5,0.5 Z"></path>
+            </g>
+            <text font-family="OpenSans-Bold, Open Sans" font-size="12" font-weight="bold" line-spacing="16" fill="#FFFFFF">
+                <tspan x="9" y="13">OFFER</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
